@@ -1,0 +1,1 @@
+The next big issue was how to split the queries, so what we did was create a search function and an inverse_search function that handled one word queries, that is a query that yields the list of documents a single word is contained in or the opposite.

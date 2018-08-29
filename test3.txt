@@ -1,0 +1,1 @@
+Next, we implemented a function to handle intersections, for we will use it later on, to intersect between sets consisting of the results of a mix of both earlier functions.

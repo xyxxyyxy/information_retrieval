@@ -1,0 +1,1 @@
+For this algorithm we used Python since it’s a scripting language and already has built in functions as to split lines, open files, etc. easily, also we used an iPython Jupyter Notebook since it makes the whole ordeal easier to debug and when running it you can see the functions alongside their results, making the code clearer.

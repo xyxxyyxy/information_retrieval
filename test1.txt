@@ -1,0 +1,1 @@
+First we created a structure that contains the word and the files it's contained in, we did this is, in order to handle the index as a list of these structures, with the forementioned nested list within. For adding the words we used sets, as we knew that there couldn’t be any duplicates. Once the words are done being added we have our inverted index, ready to be used.
